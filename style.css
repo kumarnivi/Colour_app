@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(176, 187, 187);
+}
+
+#btn{
+    width: 350px;
+    height: 350px;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 50%;
+   border: 2px solid #ffff;
+}
+
+h1 {
+    text-align: center;
+    margin-right: 6%;
+}
+
